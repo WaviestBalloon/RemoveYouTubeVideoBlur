@@ -1,0 +1,14 @@
+{
+	"manifest_version": 2,
+	"name": "Remove YouTube Video Blur",
+	"version": "1.0",
+
+	"description": "Addon that removes that annoying and distracting blur that occurs in YouTube ",
+
+	"content_scripts": [
+		{
+			"matches": ["*://*.youtube.com/*"],
+			"js": ["removeytvideoblur.js"]
+		}
+	]
+}
