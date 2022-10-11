@@ -1,5 +1,5 @@
 <h1 align="center">Remove YouTube Video Blur</h1>
-<p align="center">Removes that annoying and distracting blur that occurs in YouTube's new interface change</p>
+<p align="center">Small extension that removes that annoying and distracting blur that occurs in YouTube's new interface change</p>
 
 ## Before & After
 <p align="center"><img src="./githubAssets/Before.png" width="500px"> <img src="./githubAssets/After.png" width="500px"></h1>
