@@ -1,4 +1,5 @@
 // Github: https://github.com/WaviestBalloon/RemoveYouTubeVideoBlur
+console.log(`Active on ${window.location.href}`);
 function findTheAnnoyance() {
 	const cines = document.querySelectorAll("[id^=cinematics]");
 	for (var i in cines) {
